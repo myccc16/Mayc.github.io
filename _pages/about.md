@@ -15,4 +15,4 @@ I'm a junior student from [School of AI](https://ai.bupt.edu.cn/), [Beijing Univ
 
 Honors
 ======
-[National Scholarship](../images/nationalscholarship.png).
+[National Scholarship](nationalscholarship.png).
