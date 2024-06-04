@@ -12,7 +12,7 @@ title                    : "Ma Yuanchen / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Ma Yuanchen"
 description              : &description "personal description"
-url                      : https://myccc16/Mayc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://myccc16.github.io/Mayc.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "myccc16/Mayc.github.io"
 
